@@ -1,0 +1,6 @@
+framework module Pods_ThreeLogin {
+  umbrella header "Pods-ThreeLogin-umbrella.h"
+
+  export *
+  module * { export * }
+}
